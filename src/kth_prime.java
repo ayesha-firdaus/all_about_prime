@@ -16,7 +16,7 @@ public class kth_prime {
             }
 
         }
- 
+
 
         for (int i = 2;i<=n ; i++) {
             if (sieve[i] ) {
